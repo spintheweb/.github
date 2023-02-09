@@ -1,3 +1,13 @@
 # The Spin the Web Project
 
-[WIP]
+> HTML is interpreted by a web browser, WBDL by a web spinner
+
+In the late 1990s I freelanced as a software developer for an Italian jewelry business with a nationwide sales force, distributed points of sale, international suppliers, in house and national jewelry designers and manufacturers, a help desk and a call center.
+
+To network this structure their IT department relied on Lotus Notes, a collaborative client-server software platform developed at IBM. This solution was sensible, it made good use of the available connectivity to replicate data stored in a proprietary NOSQL database and had a respectable development environment for building front ends to interact with the data. Besides the collaborative features of Lotus Notes, the sales force and point of sales used the platform to browse the products catalog and place orders; the help desk and call center used it as a knowledge base. I was hired to develop a solution to interface the manufacturers, the solution I adopted was a hybrid since Lotus Notes did not handle particularly well SQL data, I wasn’t enthusiastic but it worked.
+
+Internet was evolving, dynamic web pages were making their debut  (a dynamic web page is a page assembled on the fly by a web server before being sent to the requesting client), I found the concept powerful: data sources in general could be queried by the web server in response to client requests, the fetched data could then be rendered as HTML before being sent off to the client. The client could then inspect the data intuitively and perform insertions, updates and deletes (CRUD operations), the same web page could host data coming from disparate data sources in a wonderfully coherent, tailored made, graphical user interface accessible from any device equipped with a web browser. While developing a proof of concept the idea emerged: use web technologies inside the company to build a web site—later called a portal—whose target audience could certainly be the general public but most importantly the company employees, the sales force, the suppliers and customers. The idea was sound but needed a systematic approach.
+
+> The systematic approach required the definition of a language, WBDL, capable of describing entire web spaces, contents and their organization, routing, authorization and internationalization; a structured language able to easily handle complex realities. A second requirement was the development of an interpreter, a web spinner, that, given a URL, would fetch the associated WBDL fragment and render it (spin it).
+
+Since its inception WBDL, the Webbase Description Language, has not lost its luster, it is able to describe web sites just as easily today as in the past in spite of the rapidly evolving Internet realm, much in the same manner as HTML.
