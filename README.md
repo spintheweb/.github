@@ -1,6 +1,6 @@
 # Spin the Web Foundation
 
-**Weaving the Future of Enterprise Web Portals**
+**Weaving Web Portals**
 
 The **Spin the Web Foundation** is a non-profit steward of **open standards**, **tools**, and **documentation** for building **decentralized, enterprise-grade web portals**.
 
