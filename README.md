@@ -1,13 +1,68 @@
-# The Spin the Web Project
+# 🌐 Spin the Web Foundation
 
-> HTML is interpreted by a web browser, WBDL by a web spinner
+**Weaving the Future of Enterprise Web Portals**
 
-In the late 1990s I freelanced as a software developer for an Italian jewelry business with a nationwide sales force, distributed points of sale, international suppliers, in house and national jewelry designers and manufacturers, a help desk and a call center.
+The **Spin the Web Foundation** is a non-profit steward of **open standards**, **tools**, and **documentation** for building **decentralized, enterprise-grade web portals**.
 
-To network this structure their IT department relied on Lotus Notes, a collaborative client-server software platform developed at IBM. This solution was sensible, it made good use of the available connectivity to replicate data stored in a proprietary NOSQL database and had a respectable development environment for building front ends to interact with the data. Besides the collaborative features of Lotus Notes, the sales force and point of sales used the platform to browse the products catalog and place orders; the help desk and call center used it as a knowledge base. I was hired to develop a solution to interface the manufacturers, the solution I adopted was a hybrid since Lotus Notes did not handle particularly well SQL data, I wasn’t enthusiastic but it worked.
+Our mission is to unify diverse enterprise systems into a single, role-aware digital channel — empowering organizations to deliver consistent, secure, and personalized experiences.
 
-Internet was evolving, dynamic web pages were making their debut  (a dynamic web page is a page assembled on the fly by a web server before being sent to the requesting client), I found the concept powerful: data sources in general could be queried by the web server in response to client requests, the fetched data could then be rendered as HTML before being sent off to the client. The client could then inspect the data intuitively and perform insertions, updates and deletes (CRUD operations), the same web page could host data coming from disparate data sources in a wonderfully coherent, tailored made, graphical user interface accessible from any device equipped with a web browser. While developing a proof of concept the idea emerged: use web technologies inside the company to build a web site—later called a portal—whose target audience could certainly be the general public but most importantly the company employees, the sales force, the suppliers and customers. The idea was sound but needed a systematic approach.
+---
 
-> The systematic approach required the definition of a language, WBDL, capable of describing entire web spaces, contents and their organization, routing, authorization and internationalization; a structured language able to easily handle complex realities. A second requirement was the development of an interpreter, a web spinner, that, given a URL, would fetch the associated WBDL fragment and render it (spin it). The final requirement, an environment for managing WBDL efficently, a WBDL studio. 
+## Our Projects
 
-Since its inception WBDL, the Webbase Description Language, has not lost its luster, it is able to describe web sites just as easily today as in the past in spite of the rapidly evolving Internet realm, much in the same manner as HTML.
+We maintain and evolve a suite of open projects:
+
+- **[book](https://github.com/spintheweb/book)** – *Weaving Digital Portals*, the official guide (work in progress)
+- **[framework](https://github.com/spintheweb/framework)** – A modern, Deno-based platform for building modular, dynamic portals
+- **[docs](https://github.com/spintheweb/docs)** – Governance, contribution guides, and community resources
+
+---
+
+## Why It Matters
+
+Enterprise systems are often fragmented, siloed, and hard to integrate.  
+We believe in a **web where systems talk to each other**, where portals adapt to **roles and contexts**, and where **open standards** keep organizations in control of their technology.
+
+---
+
+## Support Our Work
+
+The Foundation exists **solely through sponsorship**.  
+Your support directly funds:
+
+- Continued development of the framework
+- Expansion of the book and learning resources
+- Community events and contributor onboarding
+- Maintenance of open standards and governance
+
+[**Become a Sponsor**](https://github.com/sponsors/spintheweb) and help us keep the web **open**, **interoperable**, and **enterprise-ready**.
+
+---
+
+## Background
+
+HTML is interpreted by a web browser. **WBDL** is interpreted by a **web spinner**.
+
+In the late 1990s, while freelancing for an Italian jewelry business with a nationwide sales force, distributed points of sale, international suppliers, and in-house designers, I encountered the challenges of integrating diverse systems.  
+The company relied on **Lotus Notes**, a collaborative client–server platform from IBM, to replicate data from a proprietary NoSQL database and provide front ends for internal use. It powered everything from product catalogs to help desk knowledge bases.
+
+While developing a proof of concept to integrate manufacturers, I saw the potential of **dynamic web pages** — assembling content on the fly from multiple data sources into a coherent, browser-based interface. This sparked the idea of using web technologies internally to build a **portal** for employees, sales teams, suppliers, and customers.
+
+To make this systematic, three components were needed:
+
+1. **WBDL (Webbase Description Language)** – A structured language to describe entire web spaces: content, organization, routing, authorization, and internationalization.
+2. **Web Spinner** – An interpreter that, given a URL, fetches the associated WBDL fragment and renders it.
+3. **Spin the Web Studio** – An environment for managing WBDL efficiently.
+
+Since its inception, WBDL has remained as relevant as HTML — able to describe complex web spaces despite the internet’s rapid evolution.
+
+---
+
+## Governance & Values
+
+We operate with transparency, inclusivity, and a commitment to the long-term health of the open web.  
+Read our [Code of Conduct](CODE_OF_CONDUCT.md) and [Governance Model](https://github.com/spintheweb/docs) to learn how we work.
+
+---
+
+> **Spin the Web Foundation** — weaving connections, empowering organizations, and keeping the web open for everyone.
