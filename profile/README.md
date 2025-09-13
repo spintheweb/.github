@@ -1,6 +1,15 @@
-**Spin the Web** is a framework for building enterprise web portals *portals* that virtualize the company brand—_eBranding_. It addresses the persistent challenge of unifying heterogeneous enterprise systems (ERP, CRM, BPMS, and MRP systems) behind a single, role-aware digital channel, providing consistent abstractions over disparate backends.
+# Spin the Web Foundation
 
-The framework comprises three core components:
-1. **Webbase Description Language (WBDL)**: A declarative language for modeling portal structure, content, and behavior.
-2. **Web Spinner**: An engine that interprets webbases (modular portal definitions written in WBDL) to dynamically generate personalized user experiences with real-time content delivery and role-based authorization.
-3. **Spin the Web Studio**: An authoring webbaselet for in-place editing of webbases; it also serves as a laboratory for exercising the Web Spinner.
+**Weaving the Future of Enterprise Web Portals**
+
+The Spin the Web Foundation is a non-profit steward of open standards, tools, and documentation for building decentralized, enterprise-grade web portals.  
+Our mission is to unify diverse enterprise systems into a single, role-aware digital channel — empowering organizations to deliver consistent, secure, and personalized experiences.
+
+## Our Projects
+- **Spin the Web Framework** – A Deno-based platform for building modular, dynamic portals.
+- **Weaving Digital Portals (Book)** – A work-in-progress guide to the philosophy and implementation of Spin the Web.
+- **Foundation Documentation** – Governance, contribution guides, and community resources.
+
+## Support Our Work
+We rely entirely on sponsorship to sustain our mission.  
+[Become a Sponsor](https://github.com/sponsors/spintheweb) and help us keep the web open, interoperable, and enterprise-ready.
