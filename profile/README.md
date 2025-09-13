@@ -1,5 +1,3 @@
-![Spin the Web Foundation logo: π and σ symbolizing solidity and adaptive variation](https://avatars.githubusercontent.com/u/16848901?s=200&v=4)
-
 ## Logo Interpretation
 
 The Spin the Web Foundation logo features the symbols **π** and **σ**, representing a foundational duality:
