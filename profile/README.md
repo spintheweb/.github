@@ -1,27 +1,32 @@
 # Spin the Web Foundation
 
-**Weaving Web Portals**
+**Visualize then Realize**
 
-We are a non‑profit steward of **open standards**, **tools**, and **documentation** for building **decentralized, enterprise‑grade web portals**.
+Spin the Web Foundation is a non-profit steward of open standards, tools, and documentation for building decentralized, enterprise-grade web portals.
 
----
+## Visualize & Realize
 
-## Our Projects
-- **[book](https://github.com/spintheweb/book)** – *Weaving Web Portals*, the official guide
-- **[framework](https://github.com/spintheweb/framework)** – Deno‑based platform for modular, dynamic portals  
-- **[docs](https://github.com/spintheweb/docs)** – Governance, contribution guides, and community resources  
+Our architecture is anchored by two foundational deployments:
 
----
+- **The Book – _Weaving Web Portals_**  
+  A TeX-based publication that defines the principles, modular design philosophy, and governance models for decentralized enterprise portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
+
+- **The Docker Container – `framework`**  
+  A Deno-based runtime environment for deploying modular webbaselets. It embodies the operational logic of the ecosystem, enabling dynamic role/context adaptation and enterprise-grade interoperability.
+
+Together, these form a dual axis:  
+**The book defines the vision. The container enacts it.**
+
+## Documentation & Governance
+
+- `docs` – Governance, contribution guides, and community resources  
+  All documentation is maintained with clarity and minimalism in mind, supporting both Italian and English audiences.
 
 ## Why It Matters
-Enterprise systems are often fragmented and siloed. We believe in a **web where systems talk to each other**, adapt to **roles and contexts**, and remain **open and interoperable**.
 
----
+Enterprise systems are often fragmented and siloed. We believe in a web where systems communicate, adapt to roles and contexts, and remain open and interoperable.
 
 ## Support Our Work
-We exist **solely through sponsorship**.  
-[**Become a Sponsor**](https://github.com/sponsors/spintheweb) and help us keep the web open, interoperable, and enterprise‑ready.
 
----
-
-> **Spin the Web Foundation** — weaving connections, empowering organizations, and keeping the web open for everyone.
+We exist solely through sponsorship.  
+Become a sponsor and help us keep the web open, interoperable, and enterprise-ready.
