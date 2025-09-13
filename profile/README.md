@@ -1,6 +1,6 @@
 # Spin the Web Foundation
 
-**Visualize then Realize**
+**Weaving Web Portals**
 
 Spin the Web Foundation is a non-profit steward of open standards, tools, and documentation for building decentralized, enterprise-grade web portals.
 
