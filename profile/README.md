@@ -7,7 +7,7 @@ Our mission is simple yet ambitious:
 
 ## What We Do
 
-We maintain and evolve a suite of open projects that make enterprise portals more **modular**, **interoperable**, and **future-proof**.
+We maintain and evolve a framework that makes enterprise portals more **modular**, **interoperable**, and **future-proof**.
 
 ### **Our Projects**
 - **Spin the Web Framework** – A modern, Deno-based platform for building modular, dynamic portals.
