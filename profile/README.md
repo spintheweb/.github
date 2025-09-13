@@ -7,7 +7,7 @@ We are a non‑profit steward of **open standards**, **tools**, and **documentat
 ---
 
 ## Our Projects
-- **[book](https://github.com/spintheweb/book)** – *Weaving Digital Portals*, the official guide (WIP)  
+- **[book](https://github.com/spintheweb/book)** – *Weaving Web Portals*, the official guide
 - **[framework](https://github.com/spintheweb/framework)** – Deno‑based platform for modular, dynamic portals  
 - **[docs](https://github.com/spintheweb/docs)** – Governance, contribution guides, and community resources  
 
