@@ -1,4 +1,4 @@
-# 🌐 Spin the Web Foundation
+# Spin the Web Foundation
 
 **Weaving the Future of Enterprise Web Portals**
 
