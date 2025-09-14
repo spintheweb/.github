@@ -1,5 +1,3 @@
-# Spin the Web Foundation
-
 ![status: work in progress](https://img.shields.io/badge/status-WIP-yellow)
 
 ## Logo Interpretation
