@@ -1,3 +1,7 @@
+# Spin the Web Foundation
+
+![status: work in progress](https://img.shields.io/badge/status-WIP-yellow)
+
 ## Logo Interpretation
 
 The Spin the Web Foundation logo features the symbols **π** and **σ**, representing a foundational duality:
