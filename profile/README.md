@@ -20,10 +20,10 @@ Spin the Web Foundation is a non-profit steward of open standards, tools, and do
 Our architecture is anchored by two foundational deployments:
 
 - **The Book – _Weaving Web Portals_**  
-  A TeX-based publication that defines the principles, modular design philosophy, and governance models for decentralized enterprise portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
+  Publication that defines the principles, modular design philosophy, and governance models for decentralized enterprise portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
 
 - **The Docker Container – `framework`**  
-  A Deno-based runtime environment for deploying modular webbaselets. It embodies the operational logic of the ecosystem, enabling dynamic role/context adaptation and enterprise-grade interoperability.
+  Runtime environment for deploying modular webbaselets. It embodies the operational logic of the ecosystem, enabling dynamic role/context adaptation and enterprise-grade interoperability.
 
 Together, these form a dual axis:  
 **The book defines the vision. The container enacts it.**
