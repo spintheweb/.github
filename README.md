@@ -8,12 +8,12 @@ Our mission is to unify diverse enterprise systems into a single, role-aware dig
 
 ---
 
-## Our Projects
+## Our Repositories
 
-We maintain and evolve a suite of open projects:
+We maintain and evolve these repositories:
 
-- **[book](https://github.com/spintheweb/book)** – *Weaving Digital Portals*, the official guide (work in progress)
-- **[framework](https://github.com/spintheweb/framework)** – A modern, Deno-based platform for building modular, dynamic portals
+- **[book](https://github.com/spintheweb/book)** – *Spin the Web*, the official book
+- **[webspinner](https://github.com/spintheweb/webspinner)** - Deno-based platform for building enterprise web portals
 - **[docs](https://github.com/spintheweb/docs)** – Governance, contribution guides, and community resources
 
 ---
