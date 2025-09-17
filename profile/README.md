@@ -24,7 +24,7 @@ Our architecture is anchored by two foundational deployments:
 - **The Book – _Spin the Web_**  
   Publication that defines the principles, modular design philosophy, and governance models for decentralized enterprise portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
 
-- **The Docker Container – _Working environment_**  
+- **The Web Spinner – _Working environment_**  
   Runs a live Spin the Web portal as a production-grade web server **and** provides a complete, reproducible workspace for developing the portal directly inside the container.
 
 Together, these form a dual axis:  
