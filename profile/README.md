@@ -21,7 +21,7 @@ Spin the Web Foundation is a non-profit steward of open standards, tools, and do
 
 There are two foundational deployments:
 
-- [book](https://github.com/spintheweb/book) - a publication that defines the principles, modular design philosophy, and governance models for decentralized enterprise portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
+- [book](https://github.com/spintheweb/book) - a publication that defines the principles, philosophy, and governance models for decentralized enterprise portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
 
 - [webspinner](https://github.com/spintheweb/webspinner) - a Docker container that hosts an enterprise web portal along with its development environment (Spin the Web Studio).
 
