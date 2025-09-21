@@ -19,7 +19,7 @@ We maintain two foundational deployments:
 
 - [**book**](https://github.com/spintheweb/book) – a publication outlining the principles, philosophy, and governance models for decentralized enterprise portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
 
-- [**webspinner**](https://github.com/spintheweb/webspinner) – a containerized sandbox for the Spin the Web framework, accessible at [sandbox.spintheweb.org](https://sandbox.spintheweb.org). It enables the deployment and management of a single modular web portal, translating architectural principles into working implementations.
+- [**webspinner**](https://github.com/spintheweb/webspinner) – a containerized sandbox for the Spin the Web framework. It enables the deployment and management of a single modular web portal, translating architectural principles into working implementations.
 
 Together, these form a dual axis:  
 **The book defines the vision. The container enacts it.**
