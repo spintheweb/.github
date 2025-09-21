@@ -1,43 +1,44 @@
 ![status: work in progress](https://img.shields.io/badge/status-WIP-yellow)
 
-## Logo Interpretation
-
+## Logo Interpretation  
 The Spin the Web Foundation logo features the symbols **π** and **σ**, representing a foundational duality:
 
-- **π (pi)** stands for **solidity**—a constant, universal structure that anchors the architecture.
-- **σ (sigma)** reflects **adaptive variation**—the capacity to respond to context, change, and complexity.
+- **π (pi)** stands for **solidity** — a constant, universal structure anchoring the architecture.  
+- **σ (sigma)** reflects **adaptive variation** — the capacity to respond to context, change, and complexity.
 
-Together, they express our core principle:  
-**Solidity taken to changing power.**
+Together, they express our motto: **Visualize then Realize** — where conceptual clarity (π) meets executable adaptability (σ).
 
-This encapsulates our motto:  
-**Visualize then Realize**—where conceptual clarity (π) meets executable adaptability (σ).
+---
 
-# Spin the Web Foundation
-
+# Spin the Web Foundation  
 **Weaving Web Portals**
 
 Spin the Web Foundation is a non-profit steward of open standards, tools, and documentation for building decentralized, enterprise-grade web portals.
 
-There are two foundational deployments:
+We maintain two foundational deployments:
 
-- [book](https://github.com/spintheweb/book) - a publication that defines the principles, philosophy, and governance models for decentralized enterprise portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
+- [**book**](https://github.com/spintheweb/book) – a publication outlining the principles, philosophy, and governance models for decentralized enterprise portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
 
-- [webspinner](https://github.com/spintheweb/webspinner) - a Docker container that hosts an enterprise web portal along with its development environment (Spin the Web Studio).
+- [**webspinner**](https://github.com/spintheweb/webspinner) – a containerized sandbox for the Spin the Web framework, accessible at [sandbox.spintheweb.org](https://sandbox.spintheweb.org). It enables the deployment and management of a single modular web portal, translating architectural principles into working implementations.
 
 Together, these form a dual axis:  
 **The book defines the vision. The container enacts it.**
 
-## Documentation & Governance
+---
 
-- [docs](https://github.com/spintheweb/docs) – Governance, contribution guides, and community resources  
-  All documentation is maintained with clarity and minimalism in mind, supporting both Italian and English audiences.
+## Documentation & Governance  
+- [**docs**](https://github.com/spintheweb/docs) – Governance, contribution guides, and community resources.
 
-## Why It Matters
+All documentation is maintained with clarity and minimalism in mind, supporting both Italian and English audiences.
 
-Enterprise systems are often fragmented and siloed. We believe in a web where systems communicate, adapt to roles and contexts, and remain open and interoperable.
+---
 
-## Support Our Work
+## Why It Matters  
+Enterprise systems are often fragmented and siloed.  
+We believe in a web where systems communicate, adapt to roles and contexts, and remain open and interoperable.
 
+---
+
+## Support Our Work  
 We exist solely through sponsorship.  
 Become a sponsor and help us keep the web open, interoperable, and enterprise-ready.
