@@ -6,7 +6,7 @@ The Spin the Web Foundation logo features the symbols **π** and **σ**, represe
 - **π (pi)** stands for **solidity** — a constant, universal structure anchoring the architecture.  
 - **σ (sigma)** reflects **adaptive variation** — the capacity to respond to context, change, and complexity.
 
-Together, they express our motto: **Visualize then Realize** — where conceptual clarity (π) meets executable adaptability (σ).
+Together, they express our motto **Visualize then Realize** where conceptual clarity (π) meets executable adaptability (σ).
 
 ---
 
@@ -21,7 +21,6 @@ We maintain two foundational deployments:
 
 - [**webspinner**](https://github.com/spintheweb/webspinner) – a containerized sandbox for the Spin the Web framework. It enables the deployment and management of a single modular web portal, translating architectural principles into working implementations.
 
-Together, these form a dual axis:  
 **The book defines the vision. The container enacts it.**
 
 ---
@@ -29,7 +28,7 @@ Together, these form a dual axis:
 ## Documentation & Governance  
 - [**docs**](https://github.com/spintheweb/docs) – Governance, contribution guides, and community resources.
 
-All documentation is maintained with clarity and minimalism in mind, supporting both Italian and English audiences.
+All documentation is maintained with clarity and minimalism in mind.
 
 ---
 
