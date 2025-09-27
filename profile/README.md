@@ -25,6 +25,14 @@ We maintain two foundational deployments:
 
 ---
 
+## Schemas Repository
+
+- [**schemas**](https://github.com/spintheweb/schemas) – A centralized repository of formal schemas used in Spin the Web portals. It defines the structural contracts for datasources, contents, layouts, and interactions. These schemas ensure consistency, validation, and interoperability across deployments and tooling.
+
+The `schemas` repository supports both contributors and integrators by providing a single source of truth for WBDL and WBLL specifications. It is actively maintained and versioned to reflect evolving standards within the Foundation.
+
+---
+
 ## Documentation & Governance  
 - [**docs**](https://github.com/spintheweb/docs) – Governance, contribution guides, and community resources.
 
