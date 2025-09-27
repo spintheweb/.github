@@ -11,7 +11,7 @@ Together, they express our motto **Visualize then Realize** where conceptual cla
 ---
 
 # Spin the Web Foundation  
-## Weaving Web Portals
+## Weaving Enterprise Web Portals
 
 Spin the Web Foundation is a non-profit steward of open standards, tools, and documentation for building enterprise web portals, aka, portals.
 
@@ -19,7 +19,7 @@ We maintain two foundational deployments:
 
 - [**book**](https://github.com/spintheweb/book) – a publication outlining the principles, philosophy, and governance models for decentralized portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
 
-- [**webspinner**](https://github.com/spintheweb/webspinner) – a containerized Spin the Web framework. It enables the development and management of a portal, translating architectural principles into working implementations.
+- [**webspinner**](https://github.com/spintheweb/webspinner) – a containerized Spin the Web framework that hosts a portal also enabling its development and management.
 
 **The book defines the vision. The webspinner enacts it.**
 
