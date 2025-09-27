@@ -11,7 +11,7 @@ Together, they express our motto **Visualize then Realize** where conceptual cla
 ---
 
 # Spin the Web Foundation  
-**Weaving Web Portals**
+## Weaving Web Portals
 
 Spin the Web Foundation is a non-profit steward of open standards, tools, and documentation for building enterprise web portals, aka, portals.
 
@@ -23,13 +23,13 @@ We maintain two foundational deployments:
 
 **The book defines the vision. The container enacts it.**
 
-**Schemas Repository**
+## Schemas Repository
 
 - [**schemas**](https://github.com/spintheweb/schemas) – A centralized repository of formal schemas used in Spin the Web portals. It defines the structural contracts for WBDL and WBLL. These schemas ensure consistency, validation, and interoperability across deployments and tooling.
 
 The `schemas` repository supports both contributors and integrators by providing a single source of truth for WBDL and WBLL specifications. It is actively maintained and versioned to reflect evolving standards within the Foundation.
 
-**Documentation & Governance**
+## Documentation & Governance
 - [**docs**](https://github.com/spintheweb/docs) – Governance, contribution guides, and community resources.
 
 ---
