@@ -23,29 +23,21 @@ We maintain two foundational deployments:
 
 **The book defines the vision. The container enacts it.**
 
----
+**Schemas Repository**
 
-## Schemas Repository
-
-- [**schemas**](https://github.com/spintheweb/schemas) – A centralized repository of formal schemas used in Spin the Web portals. It defines the structural contracts for datasources, contents, layouts, and interactions. These schemas ensure consistency, validation, and interoperability across deployments and tooling.
+- [**schemas**](https://github.com/spintheweb/schemas) – A centralized repository of formal schemas used in Spin the Web portals. It defines the structural contracts for WBDL and WBLL. These schemas ensure consistency, validation, and interoperability across deployments and tooling.
 
 The `schemas` repository supports both contributors and integrators by providing a single source of truth for WBDL and WBLL specifications. It is actively maintained and versioned to reflect evolving standards within the Foundation.
 
----
-
-## Documentation & Governance  
+**Documentation & Governance**
 - [**docs**](https://github.com/spintheweb/docs) – Governance, contribution guides, and community resources.
-
-All documentation is maintained with clarity and minimalism in mind.
 
 ---
 
 ## Why It Matters  
-Enterprise systems are often fragmented and siloed.  
-We believe in a web where systems communicate, adapt to roles and contexts, and remain open and interoperable.
+Enterprise systems are fragmented and siloed. We believe in a web where systems communicate, adapt to roles and contexts, and remain open and interoperable providing a coherent user experience.
 
 ---
 
 ## Support Our Work  
-We exist solely through sponsorship.  
-Become a sponsor and help us keep the web open, interoperable, and enterprise-ready.
+We exist solely through sponsorship. Become a sponsor and help us keep the web open, interoperable, and enterprise-ready.
