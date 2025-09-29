@@ -1,43 +1,51 @@
 ![status: work in progress](https://img.shields.io/badge/status-WIP-yellow)
 
-## Logo Interpretation  
+## Logo Interpretation
+
 The Spin the Web Foundation logo features the symbols **π** and **σ**, representing a foundational duality:
 
-- **π (pi)** stands for **solidity** — a constant, universal structure anchoring the architecture.  
+- **π (pi)** stands for **solidity** — a constant, universal structure anchoring the architecture.
 - **σ (sigma)** reflects **adaptive variation** — the capacity to respond to context, change, and complexity.
 
-Together, they express our motto **Visualize then Realize** where conceptual clarity (π) meets executable adaptability (σ).
+Together, they express our motto: **Visualize then Realize**, where conceptual clarity (π) meets executable adaptability (σ).
 
 ---
 
-# Spin the Web Foundation  
+# Spin the Web Foundation
+
 ## Weaving Enterprise Web Portals
 
-Spin the Web Foundation is a non-profit steward of open standards, tools, and documentation for building enterprise web portals, aka, portals.
+Spin the Web Foundation is a non-profit steward of open standards, tools, and documentation for building enterprise web portals—aka, portals.
 
 We maintain two foundational deployments:
 
-- [**book**](https://github.com/spintheweb/book) – a publication outlining the principles, philosophy, and governance models for decentralized portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
-
-- [**webspinner**](https://github.com/spintheweb/webspinner) – a containerized Spin the Web framework that hosts a portal also enabling its development and management.
+- [**book**](https://github.com/spintheweb/book) – A publication outlining the principles, philosophy, and governance models for portals. It serves as the conceptual foundation for architects, contributors, and institutional stakeholders.
+- [**webspinner**](https://github.com/spintheweb/webspinner) – A containerized Spin the Web framework that hosts a portal and enables its development and management.
 
 **The book defines the vision. The webspinner enacts it.**
 
+---
+
 ## Schemas Repository
 
-- [**schemas**](https://github.com/spintheweb/schemas) – A centralized repository of formal schemas used in Spin the Web portals. It defines the structural contracts for WBDL and WBLL. These schemas ensure consistency, validation, and interoperability across deployments and tooling.
+- [**schemas**](https://github.com/spintheweb/schemas) – A centralized repository of formal schemas used in Spin the Web portals. It defines the structural contracts for WBDL and WBLL.
 
-The `schemas` repository supports both contributors and integrators by providing a single source of truth for WBDL and WBLL specifications. It is actively maintained and versioned to reflect evolving standards within the Foundation.
+These schemas ensure consistency, validation, and interoperability across deployments and tooling. The `schemas` repository supports both contributors and integrators by providing a single source of truth for WBDL and WBLL specifications. It is actively maintained and versioned to reflect evolving standards within the Foundation.
+
+---
 
 ## Documentation & Governance
+
 - [**docs**](https://github.com/spintheweb/docs) – Governance, contribution guides, and community resources.
 
 ---
 
-## Why It Matters  
-Enterprise systems are fragmented and siloed. We believe in a web where systems communicate, adapt to roles and contexts, and remain open and interoperable providing a coherent user experience.
+## Why It Matters
+
+Enterprise systems are fragmented and siloed. We believe in a web where systems communicate, adapt to roles and contexts, and remain open and interoperable—providing a coherent user experience.
 
 ---
 
-## Support Our Work  
+## Support Our Work
+
 We exist solely through sponsorship. Become a sponsor and help us keep the web open, interoperable, and enterprise-ready.
