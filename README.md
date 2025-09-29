@@ -2,7 +2,7 @@
 
 **Weaving Web Portals**
 
-The **Spin the Web Foundation** is a non-profit steward of **open standards**, **tools**, and **documentation** for building **decentralized, enterprise-grade web portals**.
+The **Spin the Web Foundation** is a non-profit steward of **open standards**, **tools**, and **documentation** for building **enterprise web portals**.
 
 Our mission is to unify diverse enterprise systems into a single, role-aware digital channel — empowering organizations to deliver consistent, secure, and personalized experiences.
 
@@ -20,8 +20,13 @@ We maintain and evolve these repositories:
 
 ## Why It Matters
 
-Enterprise systems are often fragmented, siloed, and hard to integrate.  
-We believe in a **web where systems talk to each other**, where portals adapt to **roles and contexts**, and where **open standards** keep organizations in control of their technology.
+Enterprise systems are often fragmented, siloed, and difficult to integrate. We believe in a **web where systems talk to each other**, where portals dynamically adapt to **roles and contexts**, and where **open standards** empower organizations to maintain control over their technology.
+
+Spin the Web builds on fundamental web standards—**HTTP**, **HTML**, **CSS**, and **JavaScript**—leveraging them in a cohesive framework that takes the web to the next logical level.
+
+Through **WBDL (Webbase Description Language)**, Spin the Web coordinates these standard technologies to develop complex, role-aware **enterprise web portals**. WBDL defines the structure, content, routing, authorization, and internationalization of web spaces, enabling dynamic, interoperable, and adaptable portals built on familiar protocols and languages.
+
+In other words: Spin the Web doesn’t reinvent the web — it weaves the web’s existing building blocks into scalable, maintainable, and extensible enterprise solutions.
 
 ---
 
