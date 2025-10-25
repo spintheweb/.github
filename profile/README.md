@@ -36,7 +36,7 @@ These schemas ensure consistency, validation, and interoperability across deploy
 
 ## Documentation & Governance
 
-- [**docs**](https://github.com/spintheweb/docs) – Governance, contribution guides, and community resources.
+- [**docs**](https://github.com/spintheweb/foundation) – Governance, contribution guides, and community resources.
 
 ---
 
