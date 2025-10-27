@@ -1,7 +1,7 @@
 # Spin the Web
 
 ![status: work in progress](https://img.shields.io/badge/status-WIP-yellow)
-[![Book Latest Release](https://img.shields.io/github/v/release/spintheweb/book?label=book)](https://spintheweb.github.io/book/SpinTheWeb.pdf)
+[![Book Latest Release](https://img.shields.io/github/v/release/spintheweb/book?label=book)](https://github.com/spintheweb/book/releases)
 [![Webspinner Latest Release](https://img.shields.io/github/v/release/spintheweb/webspinner?label=webspinner)](https://github.com/spintheweb/webspinner/releases)
 
 **Spin the Web** is an open initiative to redefine how we describe, implement, and deliver web portals.  
@@ -19,7 +19,7 @@ Spin the Web is organized into five core repositories:
 - **[schemas](https://github.com/spintheweb/schemas)**  
   _WBDL core:_ Defines the **Webbase Description Language (WBDL)**. While HTML describes a single web page, WBDL describes an entire web portal!
 
-- **[book](https://github.com/spintheweb/book)**  
+- **[book](https://spintheweb.github.io/book/SpinTheWeb.pdf)**  
   _Living documentation:_ An evolving textbook covering philosophy, architecture, implementation, usage, and future directions.
 
 - **[webspinner](https://github.com/spintheweb/webspinner)**  
