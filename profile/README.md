@@ -7,9 +7,7 @@
 **Spin the Web** is an open initiative to redefine how we describe, implement, and deliver web portals.  
 Our mission: empower creators and communities with a new standard for building complex web experiences—collaboratively, transparently, and sustainably.
 
-<div style="text-align:center">
-<img src="banner.png" alt="Banner" style="max-width: 400px; width: 100%;" />
-</div>
+<img src="banner.png" alt="Banner" style="max-width: 400px; width: 100%; display: block; margin: 0 auto;" />
 
 ## Our Workspace
 
