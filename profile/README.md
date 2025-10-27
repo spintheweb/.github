@@ -1,6 +1,8 @@
-![status: work in progress](https://img.shields.io/badge/status-WIP-yellow)
-
 # Spin the Web
+
+![status: work in progress](https://img.shields.io/badge/status-WIP-yellow)
+[![Book Latest Release](https://img.shields.io/github/v/release/spintheweb/book?label=book)](https://spintheweb.github.io/book/SpinTheWeb.pdf)
+[![Webspinner Latest Release](https://img.shields.io/github/v/release/spintheweb/webspinner?label=webspinner)](https://github.com/spintheweb/webspinner/releases)
 
 **Spin the Web** is an open initiative to redefine how we describe, implement, and deliver web portals.  
 Our mission: empower creators and communities with a new standard for building complex web experiences—collaboratively, transparently, and sustainably.
