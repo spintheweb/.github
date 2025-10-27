@@ -19,7 +19,7 @@ All finances and sponsorships are managed via [Open Collective](https://opencoll
 
 ## Support
 
-We exist solely through sponsorship. [Become a Sponsor](https://github.com/sponsors/spintheweb) or [Open Collective Backer](https://opencollective.com/spintheweb) to help us keep the web open, interoperable, and enterprise-ready.
+We exist solely through community support. [Become a Backer on Open Collective](https://opencollective.com/spintheweb) to help us keep the web open, interoperable, and enterprise-ready.
 
 ---
 

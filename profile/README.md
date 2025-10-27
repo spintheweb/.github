@@ -1,26 +1,44 @@
-
 ![status: work in progress](https://img.shields.io/badge/status-WIP-yellow)
 
-# Spin the Web Foundation
+# Spin the Web
 
-**Weaving Enterprise Web Portals**
+**Spin the Web** is an open initiative to redefine how we describe, implement, and deliver web portals.  
+Our mission: empower creators and communities with a new standard for building complex web experiences—collaboratively, transparently, and sustainably.
 
-Spin the Web Foundation is a non-profit steward of open standards, tools, and documentation for building enterprise web portals.
+---
 
-## Canonical Documents
+## Our Workspace
 
-- [Mission Statement](../../foundation/MISSION.md)
-- [Governance Model](../../foundation/GOVERNANCE.md)
-- [Code of Conduct](../../foundation/CODE_OF_CONDUCT.md)
-- [Contributing Guide](../../foundation/CONTRIBUTING.md)
-- [Foundation README](../../foundation/README.md)
+Spin the Web is organized into five core repositories:
 
-For all details about our mission, governance, and how to get involved, please see the above documents in the [`foundation`](../../foundation/) repository.
+- **[.github](https://github.com/spintheweb/.github)**  
+  _Organization wrapper:_ Houses community health files, documentation standards, and org-wide policies.
 
-## Financial Transparency
+- **[schemas](https://github.com/spintheweb/schemas)**  
+  _WBDL core:_ Defines the **Webbase Description Language (WBDL)**. While HTML describes a single web page, WBDL describes an entire web portal!
 
-All finances and sponsorships are managed via [Open Collective](https://opencollective.com/spintheweb).
+- **[book](https://github.com/spintheweb/book)**  
+  _Living documentation:_ An evolving textbook covering philosophy, architecture, implementation, usage, and future directions.
 
-## Support
+- **[webspinner](https://github.com/spintheweb/webspinner)**  
+  _WBDL runtime:_ A full-duplex server interpreting WBDL, handling portal requests, and delivering dynamic web experiences.
 
-We exist solely through sponsorship. [Become a Sponsor](https://github.com/sponsors/spintheweb) or [Open Collective Backer](https://opencollective.com/spintheweb) to help us keep the web open, interoperable, and enterprise-ready.
+- **[foundation](https://github.com/spintheweb/foundation)**  
+  _Project administration:_ Governance, sustainability, and community coordination. Aiming for Open Collective membership.
+
+---
+
+## Get Involved
+
+- Visit our website: [spintheweb.org](https://spintheweb.org)
+- Visit our labs: [labs.spintheweb.org](https://labs.spintheweb.org)
+- Contact us: [info@spintheweb.org](mailto:info@spintheweb.org)
+- Explore each repository for documentation, contribution guidelines, and issues.
+- Join our discussions to help shape the future of the web!
+- [Learn more about Spin the Web](https://github.com/spintheweb/book) in our living textbook.
+
+---
+
+![Spin the Web Banner](https://raw.githubusercontent.com/spintheweb/.github/main/profile/banner.png)
+
+*Together, let's spin the future of the web!*
