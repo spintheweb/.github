@@ -39,6 +39,7 @@ Spin the Web is organized into five core repositories:
 - Explore each repository for documentation, contribution guidelines, and issues.
 - Join our discussions to help shape the future of the web!
 - [Learn more about Spin the Web](https://github.com/spintheweb/book) in our living textbook.
+- Follow [Spin the Web Project](https://copilot.microsoft.com/shares/pages/3cD3qnmysNP5igHz6YCv1) in Copilot Pages.
 
 ---
 
