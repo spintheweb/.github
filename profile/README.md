@@ -9,7 +9,6 @@ Our mission: empower creators and communities with a new standard for building c
 
 ![Spin the Web Banner](https://raw.githubusercontent.com/spintheweb/.github/main/profile/banner.png)
 
----
 
 ## Our Workspace
 
@@ -43,4 +42,4 @@ Spin the Web is organized into five core repositories:
 
 ---
 
-*Together, let's spin the future of the web!*
+*Together, let's spin the future of web portals!*
