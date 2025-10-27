@@ -7,6 +7,8 @@
 **Spin the Web** is an open initiative to redefine how we describe, implement, and deliver web portals.  
 Our mission: empower creators and communities with a new standard for building complex web experiences—collaboratively, transparently, and sustainably.
 
+![Spin the Web Banner](https://raw.githubusercontent.com/spintheweb/.github/main/profile/banner.png)
+
 ---
 
 ## Our Workspace
@@ -40,7 +42,5 @@ Spin the Web is organized into five core repositories:
 - [Learn more about Spin the Web](https://github.com/spintheweb/book) in our living textbook.
 
 ---
-
-![Spin the Web Banner](https://raw.githubusercontent.com/spintheweb/.github/main/profile/banner.png)
 
 *Together, let's spin the future of the web!*
