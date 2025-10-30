@@ -1,5 +1,3 @@
-
-
 # Spin the Web Project
 
 Welcome! This is the organization-level repository for Spin the Web Project.
