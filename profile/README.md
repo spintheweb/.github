@@ -25,7 +25,7 @@ Spin the Web is organized into five core repositories:
 - **[webspinner](https://github.com/spintheweb/webspinner)**  
   _WBDL runtime:_ A full-duplex server interpreting WBDL, handling portal requests, and delivering dynamic web experiences.
 
-- **[foundation](https://github.com/spintheweb/foundation)**  
+- **[project](https://github.com/spintheweb/project)**  
   _Project administration:_ Governance, sustainability, and community coordination.
 
 ---

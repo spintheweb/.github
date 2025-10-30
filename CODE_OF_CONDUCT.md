@@ -1,6 +1,6 @@
 
 # Code of Conduct
 
-The canonical Code of Conduct for Spin the Web Foundation is maintained in the [`foundation`](../foundation/CODE_OF_CONDUCT.md) repository.
+The canonical Code of Conduct for Spin the Web Project is maintained in the [`project`](../project/CODE_OF_CONDUCT.md) repository.
 
-Please see [foundation/CODE_OF_CONDUCT.md](../foundation/CODE_OF_CONDUCT.md) for the current version and reporting instructions.
+Please see [project/CODE_OF_CONDUCT.md](../project/CODE_OF_CONDUCT.md) for the current version and reporting instructions.
