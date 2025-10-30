@@ -9,7 +9,6 @@ Our mission: empower creators and communities with a new standard for building c
 
 ![Spin the Web Banner](https://raw.githubusercontent.com/spintheweb/.github/main/profile/banner.png)
 
-
 ## Our Workspace
 
 Spin the Web is organized into five core repositories:
@@ -27,7 +26,7 @@ Spin the Web is organized into five core repositories:
   _WBDL runtime:_ A full-duplex server interpreting WBDL, handling portal requests, and delivering dynamic web experiences.
 
 - **[foundation](https://github.com/spintheweb/foundation)**  
-  _Project administration:_ Governance, sustainability, and community coordination. Aiming for Open Collective membership.
+  _Project administration:_ Governance, sustainability, and community coordination.
 
 ---
 
@@ -43,4 +42,6 @@ Spin the Web is organized into five core repositories:
 
 ---
 
-*Together, let's spin the future of web portals!*
+![Spin the Web Banner](https://raw.githubusercontent.com/spintheweb/.github/main/profile/banner.png)
+
+*Together, let's spin the future of enterprise web portals!*
