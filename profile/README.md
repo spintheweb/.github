@@ -11,7 +11,12 @@ Our mission: empower creators and communities with a new standard for building c
 
 ---
 
+
 **Looking for contributors!**
+
+[Read our contributing guide](../project/CONTRIBUTING.md) to learn how you can get involved.
+
+[Read about our project governance](../project/GOVERNANCE.md) for details on how decisions are made and how the project is sustained.
 
 We welcome people who have as much passion for what they do as we have for what we do! Whether your interests are in protocol theory, teaching and education, communication and outreach, design and user experience (UX), logic and programming, open source advocacy, web accessibility, information architecture, standards development, documentation and technical writing, community building, security and privacy, data visualization, semantic web and linked data, automation and DevOps, digital sustainability, creative coding and digital art, or any related field—your enthusiasm and expertise can help shape the future of the web. Join us!
 
@@ -21,10 +26,7 @@ We welcome people who have as much passion for what they do as we have for what 
 
 ## Our Workspace
 
-Spin the Web is organized into five core repositories:
-
-- **[.github](https://github.com/spintheweb/.github)**  
-  _Organization wrapper:_ Houses community health files, documentation standards, and org-wide policies.
+Spin the Web is organized into four core repositories:
 
 - **[schemas](https://github.com/spintheweb/schemas)**  
   _WBDL core:_ Defines the **Webbase Description Language (WBDL)**. While HTML describes a single web page, WBDL describes an entire web portal!
@@ -48,6 +50,5 @@ Spin the Web is organized into five core repositories:
 - Explore each repository for documentation, contribution guidelines, and issues.
 - Join our discussions to help shape the future of the web!
 - [Learn more about Spin the Web](https://github.com/spintheweb/book) in our living textbook.
-- Follow [Spin the Web Project](https://copilot.microsoft.com/shares/pages/3cD3qnmysNP5igHz6YCv1) in Copilot Pages.
 
 *Together, let's spin the future of enterprise web portals!*
