@@ -40,8 +40,4 @@ Spin the Web is organized into five core repositories:
 - [Learn more about Spin the Web](https://github.com/spintheweb/book) in our living textbook.
 - Follow [Spin the Web Project](https://copilot.microsoft.com/shares/pages/3cD3qnmysNP5igHz6YCv1) in Copilot Pages.
 
----
-
-![Spin the Web Banner](https://raw.githubusercontent.com/spintheweb/.github/main/profile/banner.png)
-
 *Together, let's spin the future of enterprise web portals!*
