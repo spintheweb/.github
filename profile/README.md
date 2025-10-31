@@ -3,9 +3,19 @@
 ![status: work in progress](https://img.shields.io/badge/status-WIP-yellow)
 [![Book Latest Release](https://img.shields.io/github/v/release/spintheweb/book?label=book)](https://github.com/spintheweb/book/releases)
 [![Webspinner Latest Release](https://img.shields.io/github/v/release/spintheweb/webspinner?label=webspinner)](https://github.com/spintheweb/webspinner/releases)
+![Contributors Wanted](https://img.shields.io/badge/contributors-wanted-brightgreen)
+
 
 **Spin the Web** is an open initiative to redefine how we describe, implement, and deliver web portals.  
 Our mission: empower creators and communities with a new standard for building complex web experiences—collaboratively, transparently, and sustainably.
+
+---
+
+**Looking for contributors!**
+
+We welcome people who have as much passion for what they do as we have for what we do! Whether your interests are in protocol theory, teaching and education, communication and outreach, design and user experience (UX), logic and programming, open source advocacy, web accessibility, information architecture, standards development, documentation and technical writing, community building, security and privacy, data visualization, semantic web and linked data, automation and DevOps, digital sustainability, creative coding and digital art, or any related field—your enthusiasm and expertise can help shape the future of the web. Join us!
+
+---
 
 ![Spin the Web Banner](https://raw.githubusercontent.com/spintheweb/.github/main/profile/banner.png)
 
