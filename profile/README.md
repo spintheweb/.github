@@ -1,5 +1,6 @@
 # Spin the Web
 
+[![WIP](https://img.shields.io/badge/status-WIP-yellow)](https://github.com/spintheweb/project)
 [![Book Latest Release](https://img.shields.io/github/v/release/spintheweb/book?label=book)](https://github.com/spintheweb/book/releases)
 [![Webspinner Latest Release](https://img.shields.io/github/v/release/spintheweb/webspinner?label=webspinner)](https://github.com/spintheweb/webspinner/releases)
 ![Contributors Wanted](https://img.shields.io/badge/contributors-wanted-brightgreen)
