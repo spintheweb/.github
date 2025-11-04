@@ -24,7 +24,7 @@ We welcome people who have as much passion for what they do as we have for what 
 
 ## Our Workspace
 
-Spin the Web is organized into four core repositories:
+Spin the Web is organized into four core repos:
 
 - **[schemas](https://github.com/spintheweb/schemas)**  
   _WBDL core:_ Defines the **Webbase Description Language (WBDL)**. While HTML describes a single web page, WBDL describes an entire web portal!
