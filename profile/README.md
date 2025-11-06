@@ -1,6 +1,7 @@
 # Spin the Web
 
 [![WIP](https://img.shields.io/badge/status-WIP-yellow)](https://github.com/spintheweb/project)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Book Latest Release](https://img.shields.io/github/v/release/spintheweb/book?label=book)](https://github.com/spintheweb/book/releases)
 [![Webspinner Latest Release](https://img.shields.io/github/v/release/spintheweb/webspinner?label=webspinner)](https://github.com/spintheweb/webspinner/releases)
 ![Contributors Wanted](https://img.shields.io/badge/contributors-wanted-brightgreen)
