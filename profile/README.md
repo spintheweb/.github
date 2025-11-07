@@ -50,4 +50,12 @@ Spin the Web is organized into four core repos:
 - Join our discussions to help shape the future of the web!
 - [Learn more about Spin the Web](https://github.com/spintheweb/book) in our living textbook.
 
+---
+
+## The project uses
+- [Deno](https://deno.land/)
+- [Ace Editor](https://ace.c9.io/)
+- [Summernote](https://summernote.org/)
+- [D3.js](https://d3js.org/)
+
 *Together, let's spin the future of enterprise web portals!*
