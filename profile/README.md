@@ -25,7 +25,7 @@ We welcome people who have as much passion for what they do as we have for what 
 
 ## Our Workspace
 
-Spin the Web is organized into four core repos:
+Spin the Web is organized into four repos:
 
 - **[schemas](https://github.com/spintheweb/schemas)**  
   _WBDL core:_ Defines the **Webbase Description Language (WBDL)**. While HTML describes a single web page, WBDL describes an entire web portal!
@@ -49,6 +49,7 @@ Spin the Web is organized into four core repos:
 - Explore each repository for documentation, contribution guidelines, and issues.
 - Join our discussions to help shape the future of the web!
 - [Learn more about Spin the Web](https://github.com/spintheweb/book) in our living textbook.
+- Chat: [Join our Spin the Web chat room](https://teams.live.com/meet/9314346408121?p=fKwaD2Me77rJCSBlgN)
 
 ---
 
@@ -59,3 +60,4 @@ Spin the Web is organized into four core repos:
 - [D3.js](https://d3js.org/)
 
 *Together, let's spin the future of enterprise web portals!*
+
