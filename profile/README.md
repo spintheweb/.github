@@ -46,7 +46,6 @@ Spin the Web is organized into four repos:
 - Visit our website: [spintheweb.org](https://spintheweb.org)
 - Visit our labs: [labs.spintheweb.org](https://labs.spintheweb.org)
 - Contact us: [info@spintheweb.org](mailto:info@spintheweb.org)
-- Chat: [Join our Spin the Web chat room](https://teams.live.com/meet/9314346408121?p=fKwaD2Me77rJCSBlgN). Contact us via mail to plan the chat. 
 - [Learn more about Spin the Web](https://github.com/spintheweb/book) in our living textbook.
 
 ---
