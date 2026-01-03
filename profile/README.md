@@ -7,7 +7,7 @@
 ![Contributors Wanted](https://img.shields.io/badge/contributors-wanted-brightgreen)
 ![Passion-Driven](https://img.shields.io/badge/project-passion--driven-blueviolet)
 
-**Spin the Web** is an open initiative to redefine how we describe, implement, and deliver web portals. Our mission: empower creators and communities with a standard for building complex web experiences—collaboratively, transparently, and sustainably. [Read our project mission](https://github.com/spintheweb/project/blob/main/MISSION.md) to understand our purpose and guiding principles. [Read our project roadmap](https://github.com/spintheweb/project/blob/main/ROADMAP.md) to see our future plans and priorities.
+**Spin the Web** is an open initiative to define how digital ecosystems can be harmonized into coherent, elegant web experiences. We focus on the development of web portals as all‑inclusive access points for organizations, unifying content, services, and data through orchestrated Internet technologies. [Read our project mission](https://github.com/spintheweb/project/blob/main/MISSION.md) to understand our purpose and guiding principles, and [our project roadmap](https://github.com/spintheweb/project/blob/main/ROADMAP.md) to see our future plans and priorities.
 
 ---
 
