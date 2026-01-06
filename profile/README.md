@@ -7,7 +7,13 @@
 ![Contributors Wanted](https://img.shields.io/badge/contributors-wanted-brightgreen)
 ![Passion-Driven](https://img.shields.io/badge/project-passion--driven-blueviolet)
 
-**Spin the Web** is an open initiative to define how digital ecosystems can be harmonized into coherent, elegant web experiences. We focus on the development of web portals as all‑inclusive access points for organizations, unifying content, services, and data through orchestrated software technologies, standards, and infrastructure. [Read our project mission](https://github.com/spintheweb/project/blob/main/MISSION.md) to understand our purpose and guiding principles, and [our project roadmap](https://github.com/spintheweb/project/blob/main/ROADMAP.md) to see our future plans and priorities.
+**Spin the Web** is an open initiative to define how digital ecosystems can be harmonized into coherent, elegant Internet experience. It provides an open source framework for building Enterprise Web Portals (“portals”) with the intent of virtualizing the enterprise.
+
+It focuses on portals as all‑inclusive access points for organizations, unifying content, services, and data through orchestrated software technologies, standards, and infrastructure. A portal aggregates and personalizes information, exposes interactive and transactional workflows, and acts as the enterprise brand’s primary digital harbor.
+
+The work addresses the persistent challenge of unifying heterogeneous enterprise systems (ERP, CRM, BPMS, MRP, and others) behind a single, role‑aware digital channel, offering consistent abstractions over disparate backends. The goal is not replacement, but harmonization: software vendors concentrate on data, product logic and APIs, while specialized UI integrators build tailored user interfaces on top. The framework is stewarded by the **Spin the Web Project**.
+
+[Read our project mission](https://github.com/spintheweb/project/blob/main/MISSION.md) to understand our purpose and guiding principles, and [our project roadmap](https://github.com/spintheweb/project/blob/main/ROADMAP.md) to see our future plans and priorities.
 
 ---
 
