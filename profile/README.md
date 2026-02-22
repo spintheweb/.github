@@ -36,7 +36,7 @@ Spin the Web is organized into four repos:
 - **[schemas](https://github.com/spintheweb/schemas)**  
   _WBDL core:_ Defines the **Webbase Description Language (WBDL)**. While HTML describes a single web page, WBDL describes an entire web portal!
 
-- **[book](https://spintheweb.github.io/book/SpinTheWeb.pdf)**  
+- **[book](https://spintheweb.github.io/book)**  
   _Living documentation:_ An evolving textbook covering philosophy, architecture, implementation, usage, and future directions.
 
 - **[webspinner](https://github.com/spintheweb/webspinner)**  
