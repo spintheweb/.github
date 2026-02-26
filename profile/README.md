@@ -7,7 +7,7 @@
 ![Contributors Wanted](https://img.shields.io/badge/contributors-wanted-brightgreen)
 ![Passion-Driven](https://img.shields.io/badge/project-passion--driven-blueviolet)
 
-**Spin the Web** is an open initiative to define how digital ecosystems can be harmonized into coherent, elegant Internet experience. It provides an open source framework for building Enterprise Web Portals (“portals”) with the intent of virtualizing the enterprise.
+**Spin the Web** is an open initiative to define how digital ecosystems can be harmonized into a coherent, elegant Internet experience. It provides an open source framework for building Enterprise Web Portals (“portals”) with the intent of virtualizing the enterprise.
 
 It focuses on portals as all‑inclusive access points for organizations, unifying content, services, and data through orchestrated software technologies, standards, and infrastructure. A portal aggregates and personalizes information, exposes interactive and transactional workflows, and acts as the enterprise brand’s primary digital harbor.
 
