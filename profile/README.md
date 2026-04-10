@@ -34,13 +34,13 @@ We welcome people who have as much passion for what they do as we have for what 
 Spin the Web is organized into four repos:
 
 - **[schemas](https://github.com/spintheweb/schemas)**  
-  _WBDL core:_ Defines the **Webbase Description Language (WBDL)**. While HTML describes a single web page, WBDL describes an entire web portal!
+  _WBOL core:_ Defines the **Webbase Ontology Language (WBOL)**. While HTML describes a single web page, WBOL describes an entire web portal!
 
 - **[book](https://github.com/spintheweb/book)**  
   _Living documentation:_ An evolving textbook covering philosophy, architecture, implementation, usage, and future directions.
 
 - **[webspinner](https://github.com/spintheweb/webspinner)**  
-  _WBDL runtime:_ A full-duplex server interpreting WBDL, handling portal requests, and delivering dynamic web experiences.
+  _WBOL runtime:_ A full-duplex server interpreting WBOL, handling portal requests, and delivering dynamic web experiences.
 
 - **[project](https://github.com/spintheweb/project)**  
   _Project administration:_ Governance, sustainability, and community coordination.
