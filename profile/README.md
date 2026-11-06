@@ -57,7 +57,7 @@ Spin the Web is organized into four repos:
 ---
 
 ## The project uses
-- [Deno](https://deno.land/)
+- [Node](https://nodejs.org/)
 - [Ace Editor](https://ace.c9.io/)
 - [Summernote](https://summernote.org/)
 - [D3.js](https://d3js.org/)
