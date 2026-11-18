@@ -5,25 +5,16 @@
 [![Book Latest Release](https://img.shields.io/github/v/release/spintheweb/book?label=book)](https://github.com/spintheweb/book/releases)
 [![Webspinner Latest Release](https://img.shields.io/github/v/release/spintheweb/webspinner?label=webspinner)](https://github.com/spintheweb/webspinner/releases)
 ![Contributors Wanted](https://img.shields.io/badge/contributors-wanted-brightgreen)
-![Passion-Driven](https://img.shields.io/badge/project-passion--driven-blueviolet)
 
-The **Spin the Web Project** is, first and foremost, a philosophy: **eBranding**, the discipline of virtualizing all virtualizable aspects of an organization into a single, coherent digital channel. **Spin the Web** is the open source framework the Project stewards to realize that philosophy—defining how digital ecosystems can be harmonized into a coherent, elegant Internet experience by building Enterprise Web Portals (“portals”).
+Spin the Web is an open-source project for building web portals. It includes WBOL, a language for describing a portal, and Webspinner, a runtime that turns a Webbase into a working site. The project focuses on connecting an organization's content and services with existing systems rather than replacing them.
 
-It focuses on portals as all‑inclusive access points for organizations, unifying content, services, and data through orchestrated software technologies, standards, and infrastructure. A portal aggregates and personalizes information, exposes interactive and transactional workflows, and acts as the enterprise brand’s primary digital harbor.
-
-The work addresses the persistent challenge of unifying heterogeneous enterprise systems (ERP, CRM, BPMS, MRP, and others) behind a single, role‑aware digital channel, offering consistent abstractions over disparate backends. The goal is not replacement, but harmonization: software vendors concentrate on data, product logic and APIs, while specialized UI integrators build tailored user interfaces on top.
-
-[Read our project mission](https://github.com/spintheweb/project/blob/main/MISSION.md) to understand our purpose and guiding principles, and [our project roadmap](https://github.com/spintheweb/project/blob/main/ROADMAP.md) to see our future plans and priorities.
+[Read the project mission](https://github.com/spintheweb/project/blob/main/MISSION.md) and [roadmap](https://github.com/spintheweb/project/blob/main/ROADMAP.md).
 
 ---
 
-**Looking for contributors!**
+**Contributions are welcome.** Help with code, design, documentation, testing, or community work is appreciated.
 
-> The Spin the Web Project is a work in progress; it is currently managed by a passionate developer looking for equally passionate collaborators.
-
-We welcome people who have as much passion for what they do as we have for what we do! Whether your interests are in protocols, teaching and education, communication and outreach, design and user experience (UX), logic and programming, open source advocacy, web accessibility, information architecture, standards development, documentation and technical writing, community building, security and privacy, data visualization, semantic web and linked data, automation and DevOps, digital sustainability, creative coding and digital art, or any related field—your enthusiasm and expertise can help shape the future of the web. Join us!
-
-[Read our contributing guide](https://github.com/spintheweb/project?tab=contributing-ov-file#) to learn how you can get involved, [our code of conduct](https://github.com/spintheweb/project?tab=coc-ov-file#) to understand our community standards, and [about our project governance](https://github.com/spintheweb/project/blob/main/GOVERNANCE.md) for details on how decisions are made and how the project is sustained.
+See the [contributing guide](https://github.com/spintheweb/project?tab=contributing-ov-file#), [code of conduct](https://github.com/spintheweb/project?tab=coc-ov-file#), and [governance documents](https://github.com/spintheweb/project/blob/main/GOVERNANCE.md).
 
 ---
 
@@ -31,19 +22,21 @@ We welcome people who have as much passion for what they do as we have for what 
 
 ## Our Workspace
 
-Spin the Web is organized into four repos:
+The public project is organized across five repositories:
 
 - **[schemas](https://github.com/spintheweb/schemas)**  
-  _WBOL core:_ Defines the **Webbase Ontology Language (WBOL)**. While HTML describes a single web page, WBOL describes an entire web portal!
+  _WBOL schemas:_ Define the **Webbase Ontology Language (WBOL)**, used to describe portal structure and features.
 
 - **[book](https://github.com/spintheweb/book)**  
-  _Living documentation:_ An evolving textbook covering the eBranding philosophy, then the framework's architecture, implementation, usage, and future directions.
+  _Documentation:_ A book about WBOL, Webspinner, Studio, and building web portals.
 
 - **[webspinner](https://github.com/spintheweb/webspinner)**  
-  _WBOL runtime:_ A full-duplex server interpreting WBOL, handling portal requests, and delivering dynamic web experiences.
+  _WBOL runtime:_ Reads Webbase models and renders them as working portals, connecting portal elements to data and services.
+
+- **[assistant](https://github.com/spintheweb/assistant)** — _Studio assistant:_ An optional local Ollama assistant for Spin the Web Studio that can suggest limited edits to existing Webbase elements. Developers review changes before saving.
 
 - **[project](https://github.com/spintheweb/project)**  
-  _Project administration:_ Governance, sustainability, and community coordination.
+  _Project information:_ Governance, contributing, and community coordination.
 
 ---
 
@@ -52,15 +45,15 @@ Spin the Web is organized into four repos:
 - Visit our website: [spintheweb.org](https://spintheweb.org)
 - Visit our labs: [labs.spintheweb.org](https://labs.spintheweb.org)
 - Contact us: [info@spintheweb.org](mailto:info@spintheweb.org)
-- [Learn more about Spin the Web](https://github.com/spintheweb/book) in our living textbook.
+- Learn more in the [Spin the Web book](https://github.com/spintheweb/book).
 
 ---
 
-## The project uses
+## Selected technologies
 - [Node](https://nodejs.org/)
 - [Ace Editor](https://ace.c9.io/)
 - [Summernote](https://summernote.org/)
 - [D3.js](https://d3js.org/)
+- [Ollama](https://ollama.com/) (optional, for the local Studio assistant)
 
-*Together, let's spin the future of enterprise web portals!*
-
+*Thanks for taking a look at Spin the Web.*
